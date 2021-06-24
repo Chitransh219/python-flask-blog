@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+    "local_server": "True",
+    "local_uri": "sqlite:///BloggerBlog.db",
+    "prod_uri": "sqlite:///BloggerBlog.db",
+    "fb_url": "https://facebook.com/BloggerWorld",
+    "tw_url": "https://twitter.com/BloggerWorld",
+    "gh_url": "https://github.com/BloggerWorld",
+    "blog_name": "Bloggers World",
+    "tag_line": "A Blog world for Bloggers.",
+    "gmail-user": "your mail",
+    "gmail-password":"mail password",
+    "about-text": "Hello! I have developed this site and this my the first site completely developed by my own hardwork. Its a great experience to work on flask",
+    "no_of_posts":2,
+    "login_image": "login.jpg",
+    "admin_user": "username",
+    "admin_password": "password",
+    "upload_location": "C:\\chitransh web\\flask_project"
+    }
+}
